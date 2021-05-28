@@ -1,0 +1,46 @@
+1. Objetivo
+
+O projeto pcPhpCrud é um conjunto de código PHP, destinado a auxiliar estudantes de programação PHP a criarem programas
+de eição de tabelas MySQL. Como todos já devem saber, CRUD é o acrônimo de Create, Read, Update and Delete. Assim, qualquer
+tabela MySQL que tenha um campo-chave, deverá poder ser submetida a essas operações.
+
+
+2. Copyright
+
+O copyright deste projeto pertende a:
+
+Paulo Cesar dos Santos
+WhatsApp + 55 (21) 98753-0729
+
+
+3. Tecnologias
+
+Até o momento, as segintes tecnologias são usadas no prote:
+
+. GIT
+. GITHUB
+. PHP 7
+. MySQL
+
+
+4. Licenciamento
+
+Veja o arquivo license.txt neste diretório.
+
+
+5. Pré-requisitos
+
+Para usar este produto, você precisa de:
+
+5.1 Acesso a um banco de dados MySQL através de protocolo adequado, com:
+
+	. endereço do servidor, 
+	. nome do banco
+	. nome do usuário, 
+	. senha do usuário com GRANT de acesso total ao banco.
+
+	Recomendo que você teste esses parâmetros com o phpMyAdmin fornecido pelo administrador de sua instalação.
+
+5.2 Pelo menos o nome de  tabela desse banco, com no mínimo duas colunas; uma delas servido de chave UNIQUE sendo do tipo numérico ou string.
+
+
