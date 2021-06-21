@@ -15,7 +15,7 @@ WhatsApp + 55 (21) 98753-0729
 
 3. Tecnologias
 
-Até o momento, as segintes tecnologias são usadas no prote:
+Até o momento, as seguintes tecnologias são usadas no projeto:
 
 . GIT
 . GITHUB
